@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sinemabiletsatisi\bin\Debug\sinemabiletsatisi.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sinemabiletsatisi\bin\Debug\sinemabiletsatisi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sinemabiletsatisi\bin\Debug\sinemabiletsatisi.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sinemabiletsatisi\obj\Debug\sinemabiletsatisi.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sinemabiletsatisi\obj\Debug\sinemabiletsatisi.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sinemabiletsatisi\obj\Debug\sinemabiletsatisi.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sinemabiletsatisi\obj\Debug\sinemabiletsatisi.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sinemabiletsatisi\obj\Debug\sinemabiletsatisi.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sinemabiletsatisi\obj\Debug\sinemabiletsatisi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sinemabiletsatisi\obj\Debug\sinemabiletsatisi.pdb
